@@ -1,17 +1,18 @@
--👋 Hello, I'm Vini Castro!
+👋 Olá! Eu sou Vinicius Castro
 
--🌱 Self-taught Python Enthusiast | 🎓 Student of AI and Big Data at Anhembi Morumbi University | 👨‍💻 On Site Support Professional at Atos
+Frontend Developer em formação
+HTML | CSS | JavaScript | React
 
--📚 I'm a passionate beginner in the world of programming, self-learning Python and exploring its exciting possibilities.
++10 anos de experiência em tecnologia (Infraestrutura e Suporte)
 
--🎓 Currently pursuing a degree in AI and Big Data at Anhembi Morumbi University, where I delve into data analysis, machine learning, and all things AI.
+🚀 Atualmente focado em:
+- Desenvolvimento Frontend
+- Projetos com JavaScript e React
 
--💼 By day, I'm an On Site Support professional at Atos, providing valuable technical assistance to ensure smooth operations.
+📂 Projetos principais:
+- Sistema de tarefas
+- Dashboard de suporte
+- Landing page responsiva
 
--🚀 My GitHub journey is just beginning, and I'm eager to share my coding progress, personal projects, and contribute to open-source initiatives.
-
--💡 Always open to new challenges and collaborations. Let's code together!
-
--📫 Get in touch with me:
-Email: contato.blackcas@gmail.com
-LinkedIn: www.linkedin.com/in/vinicius-castro-11a543390
+🔗 LinkedIn:
+linkedin.com/in/vinicius-castro-11a543390
