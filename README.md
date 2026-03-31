@@ -1,18 +1,23 @@
-👋 Olá! Eu sou Vinicius Castro
+# Olá, eu sou Vinicius Castro 👋
 
-Frontend Developer em formação
-HTML | CSS | JavaScript | React
+🎯 Frontend Developer em formação  
+💻 Estudando HTML, CSS, JavaScript e React  
 
-+10 anos de experiência em tecnologia (Infraestrutura e Suporte)
+Profissional de tecnologia com mais de 10 anos de experiência em infraestrutura e suporte corporativo, agora em transição para desenvolvimento frontend.
 
-🚀 Atualmente focado em:
-- Desenvolvimento Frontend
-- Projetos com JavaScript e React
+## 🚀 Tecnologias em aprendizado
 
-📂 Projetos principais:
-- Sistema de tarefas
-- Dashboard de suporte
-- Landing page responsiva
+- HTML
+- CSS
+- JavaScript
+- React
+- Git e GitHub
 
-🔗 LinkedIn:
-linkedin.com/in/vinicius-castro-11a543390
+## 📂 Projetos em desenvolvimento
+
+Em breve novos projetos serão adicionados aqui como parte da jornada de aprendizado em desenvolvimento frontend.
+
+## 🔗 Conecte-se comigo
+
+LinkedIn  
+www.linkedin.com/in/vinicius-castro-11a543390
