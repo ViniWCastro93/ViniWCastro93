@@ -14,4 +14,4 @@
 
 -📫 Get in touch with me:
 Email: contato.blackcas@gmail.com
-LinkedIn: www.linkedin.com/in/vinicius-p-w-castro-5233a7200/
+LinkedIn: www.linkedin.com/in/vinicius-castro-11a543390
